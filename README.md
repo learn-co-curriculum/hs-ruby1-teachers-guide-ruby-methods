@@ -45,7 +45,7 @@ end
   1. How old will I be in 10 years?
   2. What is my name spelled backwards.
   3. Change all w’s to v’s.
-+ Break and have students write and call methods in [Methods Practice Lab](https://github.com/flatiron-school-curriculum/hs-ruby-2-methods-practice-lab)
++ Break and have students write and call methods in [Methods Practice Lab](https://github.com/learn-co-curriculum/hs-ruby-2-methods-practice-lab)
 
 INTERACTIVE RUBY (IRB)
 + It’s been really fun writing everything out in a file and then running that file to see what happens, but wouldn’t it be nice if we could experiment without saving and re-running the file every time? That's where Interactive Ruby aka IRB comes in.
@@ -88,7 +88,7 @@ end
 say_hello.upcase
 ```
 ERROR! This doesn’t work! Why do we get this error message: `undefined method \'upcase\' for nil:NilClass`? Because `puts` returns `nil`. How might we make this work? 
-+ Have students complete the [Flyover Lab](https://github.com/flatiron-school-curriculum/hs-ruby-2-flyover-lab)
++ Have students complete the [Flyover Lab](https://github.com/learn-co-curriculum/hs-ruby-2-flyover-lab)
 
 ARGUMENTS
 + SAY HELLO METHOD: To `say_hello` to each person in the class we might have to do something like this:
@@ -134,7 +134,7 @@ end
 
 puts addition(2, 3)
 ```
-+ Have students work on the [Parrot Lab](https://github.com/flatiron-school-curriculum/hs-ruby-2-parrot-lab)
++ Have students work on the [Parrot Lab](https://github.com/learn-co-curriculum/hs-ruby-2-parrot-lab)
 
 DEFAULT VALUES
 ```ruby
@@ -143,7 +143,7 @@ def say_name(name = ”Programmer”)
 end
 ```
 + What happens when you call it with no arguments?
-+ Have students work on the [meal choice mini-lab](https://github.com/flatiron-school-curriculum/hs-ruby-2-meal-choice-lab)
++ Have students work on the [meal choice mini-lab](https://github.com/learn-co-curriculum/hs-ruby-2-meal-choice-lab)
 
 WHY DO WE NEED ARGUMENTS? SCOPE!
 Can’t we do this?:
