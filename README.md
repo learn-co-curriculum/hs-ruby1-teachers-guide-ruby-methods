@@ -193,4 +193,4 @@ puts “hello #{name}”
 ### Hints and Hurdles
 + Students might need clarification on the difference between passing in an argument to a method and getting input by calling `gets` from within the method.
 
-<a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ruby-methods' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-ruby1-teachers-guide-ruby-methods' title='Unit 2: Ruby Methods'>Unit 2: Ruby Methods</a> on Learn.co and start learning to code for free.</p>
